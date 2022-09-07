@@ -1,0 +1,25 @@
+
+*{
+    background-image: "back.jpeg";
+}
+.button {
+    text-align: center;
+    margin-top: 20%;
+    color:white
+
+}
+body{
+    background-color: aliceblue;
+}
+button {
+    border-radius: 8px;
+    margin: 20px;
+    font-size: 20px;
+    padding: 10px 20px;
+    border: 1px solid hsl(40, 3%, 19%)
+}
+
+button:hover {
+    background-color: #607EAA;
+
+}
